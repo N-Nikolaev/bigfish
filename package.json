@@ -1,0 +1,21 @@
+{
+  "name": "bigfish",
+  "displayName": "BigFish",
+  "description": "Color theme based on the Hololive EN Gawr Gura theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BigFish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BigFish-color-theme.json"
+      }
+    ]
+  }
+}
