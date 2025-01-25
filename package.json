@@ -3,10 +3,18 @@
   "displayName": "BigFish",
   "description": "Color theme based on the Hololive EN Gawr Gura theme",
   "version": "0.0.1",
+  "publisher": "lemonshark",
   "repository": {
     "type": "git",
     "url": "https://github.com/N-Nikolaev/bigfish"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Hololive",
+    "Gawr Gura",
+    "lemonshark"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
